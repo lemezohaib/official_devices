@@ -1,0 +1,32 @@
+{
+  "maintainer": [
+    {
+      "name": "Zohaib",
+      "socials": {
+        "telegram": "lemezohaib",
+        "github": "lemezohaib",
+        "xda": "zohaibkhan143.6228226"
+      }
+    }
+  ],
+  "active": true,
+  "android_version": 14,
+  "available_versions": [14],
+  "release": "monthly",
+  "device_display_name": "Redmi Note 12 Turbo/POCO F5",
+  "device_display_codename": "marble",
+  "device_telegram_group": "lemezohaibdesk",
+  "public_download": "https://www.pling.com/p/1422701/",
+  "response": [
+    {
+      "datetime": 1713558696,
+      "size": 2501009109,
+      "filehash": "5f5fe371a4437fa9bab64092aa4c36d8",
+      "filename": "awaken-4.4-ursa-marble-official-1256-20240420.zip",
+      "id": "f3d3b86364af09520e5082ca79df039c3643d9d41c849b854417cb7e8b38371c",
+      "romtype": "official",
+      "version": "4.4",
+      "url": "https://sourceforge.net/projects/project-awaken/files/marble/awaken-4.4-ursa-marble-official-1256-20240420.zip/download"
+    }
+  ]
+}
