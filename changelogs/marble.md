@@ -1,3 +1,17 @@
+# 18-May-2024
+- April vendor security patch
+- May system security patch
+- Updated marble blobs from V816.0.5.0.UMRMIXM
+- Updated miuicamera from V816.0.5.0.UMRMIXM
+- Updated common blobs from cupid V816.0.8.0.ULCEUXM
+- Updated display, GNSS & QCC blobs from ingot-user 14 UKQ1.231121
+- Build com.android.nfc_extras
+- Move to AOSP NXP NFC HAL
+- Report factory light sensor brightness for now
+- Misc changes to gps
+- Improve hapticis
+- Upstream kernel
+
 # 28-Apr-2024
 - Initial official release
 - Full OSS kernel
