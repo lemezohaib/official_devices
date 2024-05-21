@@ -1,3 +1,14 @@
+# 21-May-2024
+- Upstream kernel
+- Minor changes to the Dolby Atmos implementation
+- Drop debugfs stuff from init scripts
+- Use HintManager for HWUI
+- Copy NFC firmware to the correct location
+- Use common libqti-perfd-client and power-libperfmgr
+- Provide a static lib for power mode extension
+- Adjust status bar padding
+- Other miscellaneous changes
+
 # 20-Apr-2024
 - Upstream kernel
 - Switch to AIDL NXP NFC HAL
