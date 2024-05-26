@@ -1,3 +1,7 @@
+# 26-May-2024
+- Fixed play integrity
+- Switched to common power-libperfmgr
+
 # 09-May-2024
 - Fixed media stuck/lag issues after qpr2
 - Misc fixes and improvements
