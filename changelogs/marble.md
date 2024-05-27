@@ -1,3 +1,12 @@
+# 26-May-2024
+- Fixed play integrity
+- Disable qti secure_element service on non nfc skus
+- Enable secure NFC functionality
+- Update common blobs from diting V816.0.4.0.ULFMIXM
+- Increase refresh rate brightness thresholds
+- Drop double click effect
+- Vibrator: Use a better check for primitive effects
+
 # 18-May-2024
 - April vendor security patch
 - May system security patch
