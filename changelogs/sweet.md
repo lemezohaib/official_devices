@@ -1,3 +1,8 @@
+# 29-May-2024
+- Fixed play integrity
+- Add HVDCP properties
+- Minor changes in the common tree
+
 # 21-May-2024
 - Upstream kernel
 - Minor changes to the Dolby Atmos implementation
